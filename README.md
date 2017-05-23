@@ -1,7 +1,7 @@
 # Miner
 Miner is a data mining tools I make data mining class.
 
-# Features : 
+# Features 
 - Classification using Naive Bayes.
 - Clustering using KMeans.
 
