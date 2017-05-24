@@ -1,0 +1,14 @@
+High;Hot;sunny;false;no
+High;Hot;sunny;true;no
+Normal;Hot;overcast;false;yes
+High;Mild;rain;false;yes
+Normal;Cool;rain;false;yes
+Normal;Cool;rain;true;no
+Normal;Cool;overcast;true;yes
+High;Mild;sunny;false;no
+Normal;Cool;sunny;false;yes
+Normal;Mild;rain;false;yes
+Normal;Mild;sunny;true;yes
+High;Mild;overcast;true;yes
+Normal;Hot;overcast;false;yes
+Normal;Mild;rain;true;no

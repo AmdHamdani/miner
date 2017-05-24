@@ -1,0 +1,28 @@
+title = clustering
+source = clustering.in
+result = clustering.out
+attribute size = 2
+total data = 5
+total centroid = 2
+total iteration = 3
+execution time = 33 ms
+memory usage = 194728 bytes
+
+title  PAC766train
+source = PAC766train.in
+result = PAC766trainout
+attribute size = 2
+total data = 3000
+total centroid = 2
+total iteration = 15
+execution time = 3089 ms
+memory usage = 922896 bytes
+
+title = tugasPP
+source = tugasPP.in
+result = tugasPP.out
+attribute size = 32
+total data = 9288
+total iteration = 
+execution time = 
+memory usage =
